@@ -1,7 +1,7 @@
 {
   "name": "SSH server with shared public key",
   "version": "2.9",
-  "slug": "ssh",
+  "slug": "ssh-pk",
   "description": "Allows connections over SSH and share public key to allow connections from host",
   "url": "https://github.com/led02/hassio-addons/ssh-share-pk/",
   "startup": "services",
